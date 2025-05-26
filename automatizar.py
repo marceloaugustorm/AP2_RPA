@@ -5,7 +5,7 @@ from openpyxl.utils import get_column_letter
 from datetime import datetime
 
 # Nome do aluno
-nome_aluno = "Lucas Curtolo Belem - RA 2400206 e Marcelo Augusto - RA 2400507"
+nome_aluno = "Eduardo Omena - RA:2400882"
 data_hoje = datetime.now().strftime("%d/%m/%Y")
 
 # Estilos
